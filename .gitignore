@@ -1,3 +1,7 @@
+# create config_Jamie.py git ignore
+config_Jamie.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
